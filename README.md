@@ -4,8 +4,6 @@
 
 Front-End Developer | React · TypeScript · Next.js
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahtabsz-devdes&color=blueviolet&style=for-the-badge)
-
 </div>
 
 ---
@@ -22,7 +20,7 @@ Front-End Developer | React · TypeScript · Next.js
 
 ### Featured Projects
 
-**[Apollo — Mock ERP & Quote System](https://apollo.gogogravity.com)** ([repo](https://github.com/mtq01/orbit-v1))
+**[Apollo — Mock ERP & Quote System](https://apollo.gogogravity.com)** ([repo](https://github.com/mtq01/apollo))
 Full-stack Next.js + TypeScript ERP and quoting workflow. Uses the Claude API to parse natural-language product requests into typed order data, with Zod schema validation and role-based access control.
 
 **[Orbit — Accessibility Scanner](https://gogogravity.com/orbit)** ([repo](https://github.com/mahtabsz-devdes/Orbit))
@@ -100,5 +98,5 @@ React SPA consuming the TMDB REST API, with reusable components and dynamic deta
 ### Connect with Me
 
 - 🌐 Portfolio: [mahtabsz.com/portfolio](https://mahtabsz.com/portfolio)
-- 💼 LinkedIn: [linkedin.com/in/mahtab-salimzadeh](https://linkedin.com/in/mahtab-salimzadeh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahtab-salimzadeh)
 - ✉️ Email: salimzademahtab@gmail.com
