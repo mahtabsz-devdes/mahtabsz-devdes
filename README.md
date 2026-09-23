@@ -98,5 +98,5 @@ React SPA consuming the TMDB REST API, with reusable components and dynamic deta
 ### Connect with Me
 
 - 🌐 Portfolio: [mahtabsz.com/portfolio](https://mahtabsz.com/portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahtab-salimzadeh)
+- 💼 LinkedIn: [linkedin.com/in/mahtab-salimzadeh](https://linkedin.com/in/mahtab-salimzadeh)
 - ✉️ Email: salimzademahtab@gmail.com
