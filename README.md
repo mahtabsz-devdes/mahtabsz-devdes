@@ -2,7 +2,7 @@
 
 # Hi, I'm Mahtab Salimzadeh
 
-Front-End Developer | React · TypeScript · Next.js
+Web Developer | React · TypeScript · Next.js
 
 </div>
 
@@ -97,6 +97,6 @@ React SPA consuming the TMDB REST API, with reusable components and dynamic deta
 
 ### Connect with Me
 
-- 🌐 Portfolio: [mahtabsz.com/portfolio](https://mahtabsz.com/portfolio)
+- 🌐 Portfolio: [mahtabsz.com/portfolio](https://mahtabsz.com)
 - 💼 LinkedIn: [linkedin.com/in/mahtab-salimzadeh](https://linkedin.com/in/mahtab-salimzadeh)
 - ✉️ Email: salimzademahtab@gmail.com
